@@ -10,7 +10,8 @@ VPN-клиент для Windows на протоколе **VLESS** (ядро Xray
 
 **[⬇ Скачать последнюю версию](../../releases/latest)** — файл `Keyhole-Setup-Win10.exe`
 
-Также доступно на сайте: **[keyhole.su/windows](https://keyhole.su/windows)**
+Прямая ссылка, всегда ведёт на свежую версию:
+`https://github.com/twoogtop-cmyk/keyhole-vpn-windows/releases/latest/download/Keyhole-Setup-Win10.exe`
 
 ---
 
@@ -75,12 +76,9 @@ VPN-клиент для Windows на протоколе **VLESS** (ядро Xray
 
 ## Тарифы
 
-Актуальные тарифы, сроки и цены смотрите в боте или личном кабинете:
+Актуальные тарифы, сроки и цены — в Telegram-боте: **[@Keyhole_new_bot](https://t.me/Keyhole_new_bot)**
 
-- **Telegram-бот:** [@Keyhole_new_bot](https://t.me/Keyhole_new_bot)
-- **Личный кабинет:** [cp.sevenskull.ru](https://cp.sevenskull.ru/)
-
-Оплатить можно прямо из приложения: раздел **Баланс** → пополнение, раздел **Подписка** → выбор тарифа. Доступны промокоды и реферальная программа — в разделе «Подписка».
+Оплатить можно и прямо из приложения: раздел **Баланс** → пополнение, раздел **Подписка** → выбор тарифа. Доступны промокоды и реферальная программа — в разделе «Подписка».
 
 ---
 
@@ -88,12 +86,10 @@ VPN-клиент для Windows на протоколе **VLESS** (ядро Xray
 
 | Ресурс | Адрес |
 |---|---|
-| Telegram-бот | [@Keyhole_new_bot](https://t.me/Keyhole_new_bot) |
-| Личный кабинет | [cp.sevenskull.ru](https://cp.sevenskull.ru/) |
-| Сайт | [keyhole.su](https://keyhole.su) |
-| Страница загрузки | [keyhole.su/windows](https://keyhole.su/windows) |
+| Telegram-бот — подписка, оплата, тарифы | [@Keyhole_new_bot](https://t.me/Keyhole_new_bot) |
 | Telegram-канал — новости | [Перейти в канал](https://t.me/+dH40oe733wFmMDc6) |
 | Техподдержка | [@Fallen_Sab](https://t.me/Fallen_Sab) |
+| Скачать приложение | [Releases](../../releases/latest) |
 
 ---
 
